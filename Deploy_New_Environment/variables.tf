@@ -1,6 +1,3 @@
-variable "location" {
-  default = "westeurope"
-}
 variable "admin_username" {
   default = "testadmin"
 } 
